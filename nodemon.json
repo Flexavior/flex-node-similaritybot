@@ -1,0 +1,5 @@
+{
+  "watch": ["customer_support.json", "index.js"],
+  "ext": "js,json",
+  "ignore": ["node_modules/*"]
+}

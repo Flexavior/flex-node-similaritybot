@@ -1,0 +1,4 @@
+conversation_logs/*.jsonl
+node_modules
+Notes.txt
+

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "intent": "greeting",
+    "lang": "en",
+    "question": "Hello",
+    "answer": "Hello. How can I help you with Flexavior service today?",
+    "image": null
+  },
+  {
+    "id": "2",
+    "intent": "greeting",
+    "lang": "en",
+    "question": "Hi",
+    "answer": "Hello. How can I help you with Flexavior service today?",
+    "image": null
+  },
+  {
+    "id": "3",
+    "intent": "greeting",
+    "lang": "my",
+    "question": "မင်္ဂလာပါ",
+    "answer": "မင်္ဂလာပါ။ Flexavior မှဘာများကူညီဆောင်ရွက်ပေးရမလဲ။",
+    "image": null
+  },
+  {
+    "id": "4",
+    "intent": "greeting",
+    "lang": "my",
+    "question": "ဟယ်လို",
+    "answer": "ဟယ်လို။ Flexavior မှဘာများကူညီဆောင်ရွက်ပေးရမလဲ။",
+    "image": null
+  },
+  {
+    "id": "5",
+    "intent": "contact_info",
+    "lang": "en",
+    "question": "How can I contact Flexavior support?",
+    "answer": "You can contact Flexavior customer service at (+959) 430xxxxx or email enquiry@flexavior.com.",
+    "image": null
+  },
+  {
+    "id": "6",
+    "intent": "contact_info",
+    "lang": "my",
+    "question": "Flexavior ကို ဘယ်လို ဆက်သွယ်ရမလဲ",
+    "answer": "Flexavior customer service ကို (+959) 430xxxxx သို့မဟုတ် enquiry@flexavior.com မှတဆင့် ဆက်သွယ်နိုင်ပါတယ်။",
+    "image": null
+  },
+  {
+    "id": "7",
+    "intent": "user_signup",
+    "lang": "en",
+    "question": "I want to create a user account",
+    "answer": "To create an account, please register through the user registration page.",
+    "image": "user_signup.png"
+  },
+  {
+    "id": "8",
+    "intent": "user_signup",
+    "lang": "my",
+    "question": "အကောင့်ဖွင့်ချင်ပါတယ်",
+    "answer": "အကောင့်ဖွင့်ရန် Flexavior ရဲ့ စာရင်းသွင်းခြင်း စာမျက်နှာမှတဆင့် လုပ်ဆောင်နိုင်ပါတယ်။",
+    "image": "user_signup.png"
+  },
+  {
+    "id": "9",
+    "intent": "language_capability",
+    "lang": "ja",
+    "question": "日本語で話せますか",
+    "answer": "はい。Flexavior は日本語に対応しています。ご質問をどうぞ。",
+    "image": null
+  },
+  {
+    "id": "10",
+    "intent": "language_capability",
+    "lang": "th",
+    "question": "คุณรองรับภาษาไทยหรือไม่",
+    "answer": "ใช่ Flexavior รองรับภาษาไทย กรุณาสอบถามคำถามของคุณ",
+    "image": null
+  },
+  {
+    "id": "11",
+    "intent": "contact_info",
+    "lang": "my",
+    "question": "ဘယ်လိုဆက်သွယ်ရမလဲ",
+    "answer": "(+959) 430xxxxx သို့မဟုတ် enquiry@flexavior.com မှတဆင့် ဆက်သွယ်နိုင်ပါတယ်။",
+    "image": null
+  }
+]
