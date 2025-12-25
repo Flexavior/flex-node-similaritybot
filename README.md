@@ -88,6 +88,35 @@ The package.json in this repo declares the dependencies required to run the serv
 
 ---
 
+### 1. Install dependencies
+Run the following to install required modules:
+```
+npm install express-rate-limit helmet
+```
+
+### 2. Install and configure pm2 for managing the app
+Install pm2 globally:
+```
+sudo npm install -g pm2
+```
+Start the app with pm2:
+```
+pm2 start index.js --name flex-faq-bot
+```
+Save the pm2 process list:
+```
+pm2 save
+```
+Enable pm2 to auto start at OS boot:
+```
+pm2 startup
+```
+Check pm2 status and list processes:
+```
+pm2 status
+pm2 list
+```
+
 ## License
 
 This project is licensed under the MIT License.
